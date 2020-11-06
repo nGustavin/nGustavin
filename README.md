@@ -7,15 +7,15 @@
   * Expo
   * NextJS
   * Sonic(rust)
-  * NodeJS
-- 👯 I’m looking to collaborate on 
-    Every public project with awasome techs
-- 🤔 I’m looking for help with 
+  * NodeJS <br/> <br/>
+- 👯 I’m looking to collaborate on  <br/> <br/>
+    Every public project with awasome techs <br/>
+- 🤔 I’m looking for help with  <br/>
   * Frontend development 
-  * Bots and scripts
-- 💬 Ask me about 
-  * My way and my favorite technologies
-and whatever you want. ❤️
+  * Bots and scripts <br/> <br/>
+- 💬 Ask me about  <br/>
+  * My way and my favorite technologies <br/>
+and whatever you want. ❤️ <br/> <br/>
 - 📫 How to reach me: <br/> <br/>
   <a href="https://steamcommunity.com/id/nGustavin">Steam</a><br/>
   <a href="https://www.linkedin.com/in/gustavo-fernandes-108044169/">Linkedin</a><br/>
@@ -23,7 +23,7 @@ and whatever you want. ❤️
   Discord: Gustavin#6590<br/>
   WhatsApp: 995...no no, Try discord first
 - ⚡ Fun fact:
-  I hated programming when i first saw it at the beginning of high school
+  I hated programming when i first saw it at the beginning of high school <br/>
 - 💭 Why development? <br/>
    ❤️Because i Love❤️
 
