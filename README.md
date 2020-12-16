@@ -6,7 +6,7 @@
   * Typescript
   * Expo
   * NextJS
-  * Sonic(rust)
+  * Docker
   * NodeJS <br/> <br/>
 - 👯 I’m looking to collaborate on  <br/> <br/>
     Every public project with awasome techs <br/>
