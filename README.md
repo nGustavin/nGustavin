@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Personal projects**
 
-- 🌱 I’m currently learning **Typescript, Expo, NextJS, Docker, NodeJS**
+- 🌱 I’m currently learning **Kubernetes & Docker**
 
 - 👯 I’m looking to collaborate on **Every public project with awasome techs**
 
