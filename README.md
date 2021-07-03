@@ -12,7 +12,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on a Electron App made it with React.
+- 🔭 I’m currently working on a Electron App made with React.
 
 - 🌱 I’m currently learning AWS, eslint and prettier best practices and some React Hooks.
 
