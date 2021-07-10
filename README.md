@@ -53,13 +53,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nGustavin&repo=nlw-downloader" width="380px"/>
 </a>
   <a href="https://github.com/nGustavin/nextjs-template">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nGustavin&repo=nextjs-template"   width="380px" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=nGustavin&repo=nextjs-template"   width="380px" />
 </a>
   <a href="https://github.com/nGustavin/nubank-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nGustavin&repo=nubank-clone"  width="380px"/>
 </a>
 <a href="https://github.com/nGustavin/adonis-auth">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nGustavin&repo=adonis-auth"  width="380px" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=nGustavin&repo=adonis-auth"  width="380px" />
 </a>
 
   
