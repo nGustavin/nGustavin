@@ -37,12 +37,18 @@
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=nGustavin&count_private=true&show_icons=true&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nGustavin&count_private=true&show_icons=true&theme=omni" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nGustavin&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nGustavin&theme=omni&layout=compact" />
 </a>
-
-
-
 <br>
+  <br>
+  <h2> Some of my repos  </h2>
+<br>
+  <img src='https://media.giphy.com/media/3bu85lsWhBTlWcOMN6/giphy.gif'  align='center' width='90px'>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nGustavin&repo=nextjs-template)](https://github.com/nGustavin/nextjs-template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nGustavin&repo=nlw-downloader)](https://github.com/nGustavin/nlw-downloader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nGustavin&repo=adonis-auth)](https://github.com/nGustavin/adonis-auth)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nGustavin&repo=nubank-clone)](https://github.com/nGustavin/nubank-clone)
