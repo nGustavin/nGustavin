@@ -50,16 +50,16 @@
 <br>
   
 <a href="https://github.com/nGustavin/nlw-downloader">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nGustavin&repo=nlw-downloader" height='180px' width="440px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nGustavin&repo=nlw-downloader" width="380px"/>
 </a>
   <a href="https://github.com/nGustavin/nextjs-template">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=nGustavin&repo=nextjs-template"  height='180px' width="450px" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nGustavin&repo=nextjs-template"   width="380px" />
 </a>
   <a href="https://github.com/nGustavin/nubank-clone">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nGustavin&repo=nubank-clone" height='180px' width="440px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nGustavin&repo=nubank-clone"  width="380px"/>
 </a>
 <a href="https://github.com/nGustavin/adonis-auth">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=nGustavin&repo=adonis-auth"  height='180px' width="450px" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nGustavin&repo=adonis-auth"  width="380px" />
 </a>
 
   
