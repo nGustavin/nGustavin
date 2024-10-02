@@ -1,66 +1,29 @@
-<h1 align='center'> Hello < Dev/ > <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+### Hey there! 👋 I'm Gustavo
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nGustavin.nGustavin)
+Welcome to my GitHub! I'm a **Senior Fullstack Engineer** currently working at **Grupo Boticário** 🧴💻. I spend my days building scalable, high-performance applications and wrangling data pipelines with some amazing technologies like:
 
-</p>
-  <div size='20px'> Hi! My name is Gustavo Fernandes and that's my profile, enjoy your tour!
-</div>
+- **Node.js** 🟢 & **TypeScript** 💻 (My bread and butter for backend and frontend magic)
+- **Serverless Functions** ☁️ (Deploying with ease and scalability in mind)
+- **AWS & Google Cloud** ☁️ (Leveraging cloud power for building microservices, event-driven systems, and more)
+- **BigQuery** 📊 (For handling massive datasets and insights extraction)
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px align='center'></h2>
+#### What I do:
+- Architect and implement **Microservices** with a focus on high availability, performance, and clean design.
+- Build **Event-Driven Applications** leveraging the power of message queues and event sourcing.
+- Apply **SOLID Principles** and **Clean Architecture** to ensure code is not just functional but also maintainable and scalable.
+- Design and implement **Data Pipelines**, making sure data flows smoothly from collection to analysis.
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+I'm passionate about finding the sweet spot between **developer experience** and **performance**, always aiming for elegant solutions that are both **simple** and **powerful**.
 
-
-- 🔭 I’m currently working on a Data Lake on AWS.
-
-- 🌱 I’m currently learning Pandas and AWS GLUE.
-
-- 👯 I’m looking to collaborate on every public project with awasome techs.
-
-- 💬 Talk to me about Python, TypeScript, Open Source, Hacking, CTF, ReactJS, Node, GoLang. 
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/nGustavin?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/nGustavin?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/nGustavin?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/nGustavin?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/nGustavin?tab=repositories&q=&type=&language=electron&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/electron.svg'> </a>
+#### A bit more about me 🎵✈️
+When I’m not coding, you’ll likely find me on an adventure somewhere new – I love to **travel** and explore different cultures. 🌍 I'm also a big fan of **music** 🎶, and every now and then I risk picking up my **guitar** or **tambourine** for a jam session (with varying degrees of success 😄).
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/gustavofer'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/nGustavin'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+---
 
+📫 **Let's Connect**: 
 
+I'm always open to new opportunities, collaborations, and projects, so feel free to reach out! 🚀
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+- [LinkedIn](https://www.linkedin.com/in/gustavofer)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width='420px' src="https://github-readme-stats.vercel.app/api?username=nGustavin&count_private=true&show_icons=true&theme=omni" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nGustavin&theme=omni&layout=compact" />
-</a>
-<br>
-  <br>
-  <h2> Some of my repos  </h2>
-<br>
-  <img src='https://media.giphy.com/media/3bu85lsWhBTlWcOMN6/giphy.gif'  align='center' width='90px'>
-<br>
-  
-<a href="https://github.com/nGustavin/nlw-downloader">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nGustavin&repo=nlw-downloader" width="380px"/>
-</a>
-  <a href="https://github.com/nGustavin/nextjs-template">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=nGustavin&repo=nextjs-template"   width="380px" />
-</a>
-  <a href="https://github.com/nGustavin/nubank-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nGustavin&repo=nubank-clone"  width="380px"/>
-</a>
-<a href="https://github.com/nGustavin/adonis-auth">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=nGustavin&repo=adonis-auth"  width="380px" />
-</a>
-
-  
- 
