@@ -2,11 +2,6 @@
 
 Welcome to my GitHub! I'm a **Senior Fullstack Engineer** currently working at **Grupo Boticário** 🧴💻. I spend my days building scalable, high-performance applications and wrangling data pipelines with some amazing technologies like:
 
-- **Node.js** 🟢 & **TypeScript** 💻 (My bread and butter for backend and frontend magic)
-- **Serverless Functions** ☁️ (Deploying with ease and scalability in mind)
-- **AWS & Google Cloud** ☁️ (Leveraging cloud power for building microservices, event-driven systems, and more)
-- **BigQuery** 📊 (For handling massive datasets and insights extraction)
-
 #### What I do:
 - Architect and implement **Microservices** with a focus on high availability, performance, and clean design.
 - Build **Event-Driven Applications** leveraging the power of message queues and event sourcing.
