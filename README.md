@@ -1,12 +1,18 @@
 ### Hey there! 👋 I'm Gustavo
 
-Welcome to my GitHub! I'm a **Senior Fullstack Engineer** currently working at **Grupo Boticário** 🧴💻. I spend my days building scalable, high-performance applications and wrangling data pipelines with some amazing technologies like:
+Welcome to my GitHub! I'm a **Senior Engineer** currently working at **Grupo Boticário** 🧴💻. I spend my days building scalable, high-performance applications and wrangling data pipelines with some amazing technologies like:
 
 #### What I do:
 - Architect and implement **Microservices** with a focus on high availability, performance, and clean design.
 - Build **Event-Driven Applications** leveraging the power of message queues and event sourcing.
 - Apply **SOLID Principles** and **Clean Architecture** to ensure code is not just functional but also maintainable and scalable.
 - Design and implement **Data Pipelines**, making sure data flows smoothly from collection to analysis.
+
+#### Currently Learning:
+- Golang
+- New patterns (circuit breaker)
+- LLM & Agentic integrations
+
 
 I'm passionate about finding the sweet spot between **developer experience** and **performance**, always aiming for elegant solutions that are both **simple** and **powerful**.
 
